@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://GrandSlam.github.io/sitemap.xml 
